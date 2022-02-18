@@ -1,1 +1,0 @@
-configuracion= "hola entorno dev perf"
